@@ -1,6 +1,14 @@
-# Hybrid AI Serving Platform
+# Event-Driven AI Serving Platform on Hybrid Cloud
 
-하이브리드 클라우드 기반 비동기 AI 서빙 플랫폼 평가 제출용 문서입니다. 이 저장소는 AI 모델 학습부터 이미지 패키징, 하이브리드 전달, 서빙 배포까지 이어지는 **AI Serving Infrastructure**를 중심으로 구성되어 있습니다.
+> **kt cloud 실무 통합 프로젝트 | 🏆 Best Team Award**  
+> Hybrid Cloud 기반으로 AI 모델을 안정적으로 배포하고 End-to-End 실시간 AI 추론을 제공하는 플랫폼
+
+<p align="center">
+  <br>
+  <b> Demo Video </b><br>
+  <img width="130" alt="Image" src="https://github.com/user-attachments/assets/a9b2a74b-a49a-46dc-a918-f311fe6ae4d4" /><br>
+  <br>
+</p>
 
 ## 1. 프로젝트 개요
 
