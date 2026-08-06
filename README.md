@@ -1,17 +1,9 @@
 <h1 align="center">Hybrid Cloud Event-Driven AI Serving Platform</h1>
 
 <p align="center">
-  <a href="https://ktcloud-techup.com/">
-    <img src="https://img.shields.io/badge/Training-kt%20cloud-5B8DEF?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BCjxwYXRoIGQ9Im0yIDEwIDEwLTUgMTAgNS0xMCA1TDIgMTBaIi8%2BCjxwYXRoIGQ9Ik02IDEydjVjMyAyIDkgMiAxMiAwdi01Ii8%2BCjxwYXRoIGQ9Ik0yMiAxMHY2Ii8%2BCjwvc3ZnPg%3D%3D"/>
-  </a>
-
-  <a href="https://github.com/user-attachments/assets/aabf0fe4-0535-44eb-a84f-6561c502b5ab">
-    <img src="https://img.shields.io/badge/Award-Grand%20Prize-E8A65B?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BCjxwYXRoIGQ9Ik04IDIxaDgiLz4KPHBhdGggZD0iTTEyIDE3djQiLz4KPHBhdGggZD0iTTcgNGgxMHY1YTUgNSAwIDAgMS0xMCAwVjRaIi8%2BCjxwYXRoIGQ9Ik01IDZIM3YxYTQgNCAwIDAgMCA0IDQiLz4KPHBhdGggZD0iTTE5IDZoMnYxYTQgNCAwIDAgMS00IDQiLz4KPC9zdmc%2B"/>
-  </a>
-
-  <a href="https://youtu.be/uS0ajVdmHYM">
-    <img src="https://img.shields.io/badge/YouTube-Demo-D96C6C?style=flat&logo=youtube&logoColor=white"/>
-  </a>
+  <a href="https://ktcloud-techup.com/"><img src="https://img.shields.io/badge/Training-kt%20cloud-4F8EF7?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BCjxwYXRoIGQ9Im0yIDEwIDEwLTUgMTAgNS0xMCA1TDIgMTBaIi8%2BCjxwYXRoIGQ9Ik02IDEydjVjMyAyIDkgMiAxMiAwdi01Ii8%2BCjxwYXRoIGQ9Ik0yMiAxMHY2Ii8%2BCjwvc3ZnPg%3D%3D"/></a>
+  <a href="https://github.com/user-attachments/assets/aabf0fe4-0535-44eb-a84f-6561c502b5ab"><img src="https://img.shields.io/badge/Award-Grand%20Prize-E08A1E?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BCjxwYXRoIGQ9Ik04IDIxaDgiLz4KPHBhdGggZD0iTTEyIDE3djQiLz4KPHBhdGggZD0iTTcgNGgxMHY1YTUgNSAwIDAgMS0xMCAwVjRaIi8%2BCjxwYXRoIGQ9Ik01IDZIM3YxYTQgNCAwIDAgMCA0IDQiLz4KPHBhdGggZD0iTTE5IDZoMnYxYTQgNCAwIDAgMS00IDQiLz4KPC9zdmc%2B"/></a>
+  <a href="https://youtu.be/uS0ajVdmHYM"><img src="https://img.shields.io/badge/YouTube-Demo-D65A5A?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
 ## 프로젝트 개요
