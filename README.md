@@ -1,9 +1,9 @@
 <h1 align="center">Hybrid Cloud Event-Driven AI Serving Platform</h1>
 
 <p align="center">
-  <a href="https://ktcloud-techup.com/"><img src="https://img.shields.io/badge/Training-kt%20cloud-4F8EF7?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BCjxwYXRoIGQ9Im0yIDEwIDEwLTUgMTAgNS0xMCA1TDIgMTBaIi8%2BCjxwYXRoIGQ9Ik02IDEydjVjMyAyIDkgMiAxMiAwdi01Ii8%2BCjxwYXRoIGQ9Ik0yMiAxMHY2Ii8%2BCjwvc3ZnPg%3D%3D"/></a>
-  <a href="https://github.com/user-attachments/assets/aabf0fe4-0535-44eb-a84f-6561c502b5ab"><img src="https://img.shields.io/badge/Award-Grand%20Prize-E08A1E?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BCjxwYXRoIGQ9Ik04IDIxaDgiLz4KPHBhdGggZD0iTTEyIDE3djQiLz4KPHBhdGggZD0iTTcgNGgxMHY1YTUgNSAwIDAgMS0xMCAwVjRaIi8%2BCjxwYXRoIGQ9Ik01IDZIM3YxYTQgNCAwIDAgMCA0IDQiLz4KPHBhdGggZD0iTTE5IDZoMnYxYTQgNCAwIDAgMS00IDQiLz4KPC9zdmc%2B"/></a>
-  <a href="https://youtu.be/uS0ajVdmHYM"><img src="https://img.shields.io/badge/YouTube-Demo-D65A5A?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://ktcloud-techup.com/"><img src="https://img.shields.io/badge/Training-kt%20cloud-2F80F7?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BCjxwYXRoIGQ9Im0yIDEwIDEwLTUgMTAgNS0xMCA1TDIgMTBaIi8%2BCjxwYXRoIGQ9Ik02IDEydjVjMyAyIDkgMiAxMiAwdi01Ii8%2BCjxwYXRoIGQ9Ik0yMiAxMHY2Ii8%2BCjwvc3ZnPg%3D%3D"/></a>
+  <a href="https://github.com/user-attachments/assets/aabf0fe4-0535-44eb-a84f-6561c502b5ab"><img src="https://img.shields.io/badge/Award-Grand%20Prize-ED7A0B?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BCjxwYXRoIGQ9Ik04IDIxaDgiLz4KPHBhdGggZD0iTTEyIDE3djQiLz4KPHBhdGggZD0iTTcgNGgxMHY1YTUgNSAwIDAgMS0xMCAwVjRaIi8%2BCjxwYXRoIGQ9Ik01IDZIM3YxYTQgNCAwIDAgMCA0IDQiLz4KPHBhdGggZD0iTTE5IDZoMnYxYTQgNCAwIDAgMS00IDQiLz4KPC9zdmc%2B"/></a>
+  <a href="https://youtu.be/uS0ajVdmHYM"><img src="https://img.shields.io/badge/YouTube-Demo-D63A38?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
 ## 프로젝트 개요
@@ -15,7 +15,7 @@ Hybrid AI Serving Platform은 Private Cloud에서 AI 모델을 학습 · 패키�
 - Private Cloud에서 민감 데이터와 AI 모델 학습 환경 보호
 - Public Cloud에서 확장 가능한 AI Serving 환경 제공
 - 모델의 **빌드 → 전달 → 배포 → 운영** 과정을 연계하는 CI/CD 및 GitOps 파이프라인 구축
-- 민감 데이터는 외부로 반출하지 않고, **패키징된 모델 이미지만** Public Cloud로 전달하며 배포 매니페스트는 Git에서 관리
+- 민감 데이터는 외부로 반출하지 않고, 패키징된 모델 이미지만 Public Cloud로 전달하며 배포 매니페스트는 Git에서 관리
 
 ### 플랫폼 구성
 
@@ -25,6 +25,12 @@ Hybrid AI Serving Platform은 Private Cloud에서 AI 모델을 학습 · 패키�
 - **SRE & Observability** : Prometheus, Grafana, Loki, Chaos Mesh, k6, Kafka Exporter
 
 ## 아키텍처 다이어그램
+
+본 프로젝트는 AI 모델 자체의 성능 개선보다 **Hybrid Cloud 기반 AI Serving 인프라 구축**에 중점을 두었습니다.
+
+Private Cloud는 모델 학습과 패키징을, Public Cloud는 실시간 추론과 확장 가능한 서비스 운영을 담당하도록 역할을 분리했습니다. 또한 Kafka 기반 Event-Driven 아키텍처를 적용하여 안정적이고 확장 가능한 AI Serving 환경을 구현했습니다.
+
+<br>
 
 ![전체 아키텍처](./docs/architecture.drawio.png)
 
@@ -42,11 +48,6 @@ Hybrid AI Serving Platform은 Private Cloud에서 AI 모델을 학습 · 패키�
 | Public Cloud | Security | Istio Ambient Mesh 기반 mTLS와 Kubernetes NetworkPolicy로 내부 통신 보호 |
 | Public Cloud | Dashboard | 추론 결과와 설비 및 서비스 상태를 확인하는 운영 대시보드 제공 |
 | SRE | Observability | Prometheus · Grafana · Loki 기반 서비스 및 인프라 통합 모니터링 |
-
-> [!NOTE]
-> **본 프로젝트는 AI 모델 자체의 성능 개선보다 Hybrid Cloud 기반 AI Serving 인프라 구축에 중점을 두었습니다.**
->
-> Private Cloud는 모델 학습과 패키징을, Public Cloud는 실시간 추론과 확장 가능한 서비스 운영을 담당하도록 역할을 분리했습니다. 또한 Kafka 기반 Event-Driven 아키텍처를 적용하여 안정적이고 확장 가능한 AI Serving 환경을 구현했습니다.
 
 ## 사용 기술 스택
 
